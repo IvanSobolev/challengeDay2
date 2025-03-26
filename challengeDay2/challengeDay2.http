@@ -1,0 +1,6 @@
+@challengeDay2_HostAddress = http://localhost:5132
+
+GET {{challengeDay2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
